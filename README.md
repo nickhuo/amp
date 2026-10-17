@@ -1,4 +1,4 @@
-# 06_Amp — How I extend myself through tools
+How I extend myself through tools
 
 This is the public **amplification layer** of the brain: how I use tools, agents, and
 repeatable methods to amplify my work and intelligence. It's where my "meta" lives —
